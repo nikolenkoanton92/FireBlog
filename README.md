@@ -5,3 +5,15 @@ FireBlog is an open-source, extensible blog widget powered by [Firebase](https:/
 ##  Getting Started with Firebase
 
 Firechat requires Firebase in order to store data. You can [sign up here](https://www.firebase.com/signup/) for a free account.
+
+## Live Demo
+
+Coming soon
+
+## Setup
+
+## Usage
+
+## Getting Help
+
+If you have a question about FireBlog, create plz a new issue.
